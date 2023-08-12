@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "PayCheck for X (Formerly Twitter) in INR",
-  "description": "See (a very VERY rough idea of) how much money a post is worth",
+  "name": "Know Tweet worth in INR",
+  "description": "See (a very VERY rough idea of) how much money a post(tweet) is worth in Indian Rupee",
   "version": "0.0.5",
   "icons": {
     "16": "/assets/PCX-icon-16.png",
