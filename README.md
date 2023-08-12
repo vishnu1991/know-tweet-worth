@@ -1,5 +1,4 @@
-# PayCheck for Twitter Indian Rupee
-
+# Know your tweet worth - INR version
 tl;dr - I made an extension that somewhat estimates how much money a tweet is worth
 
 # HOW TO INSTALL MANUALLY
